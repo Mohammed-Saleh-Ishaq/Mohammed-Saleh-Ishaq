@@ -38,21 +38,21 @@ src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedi
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saleh-Ishaq&show_icons=true&locale=en" alt="Mohammed-Saleh-Ishaq" /></p>
 <p><img align="center" src=https://ishaqgithub-readme-stats.vercel.app/ "https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Saleh-Ishaq&" alt="Mohammed-Saleh-Ishaq" /></p>
 -->
+## ⚡️ Where to find me
 
-<h2>⚡️ Where to find me</h2>
+[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/ishaq-engineer/)
 
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/ishaq-engineer/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-  </a>
-</p>
-
-<!-- Your custom stats card on Vercel -->
+<!-- GitHub Stats Card -->
 <p align="center">
-  <img align="center" src="https://ishaqgithub-readme-stats.vercel.app/api?username=Mohammed-Saleh-Ishaq&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://ishaqgithub-readme-stats.vercel.app/api?username=Mohammed-Saleh-Ishaq&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<!-- Optionally add streak stats if you have self-hosted that too -->
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img align="center" src="https://ishaqgithub-readme-stats.vercel.app/streak?user=Mohammed-Saleh-Ishaq" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-five-jade-14.vercel.app/?user=Mohammed-Saleh-Ishaq" alt="GitHub Streak" />
 </p>
+
+
+
+
+
