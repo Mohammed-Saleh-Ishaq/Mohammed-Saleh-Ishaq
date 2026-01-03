@@ -44,15 +44,13 @@ src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedi
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://ishaqgithub-readme-stats.vercel.app/api?username=Mohammed-Saleh-Ishaq&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://ishaq-github-readme-stats.vercel.app/api?username=Mohammed-Saleh-Ishaq&show_icons=true&locale=en&theme=dark" alt="Ishaq's GitHub stats" />
+  </a>
 </p>
+
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-five-jade-14.vercel.app/?user=Mohammed-Saleh-Ishaq" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-five-jade-14.vercel.app/?user=Mohammed-Saleh-Ishaq&theme=dark" alt="GitHub Streak" />
 </p>
-
-
-
-
-
